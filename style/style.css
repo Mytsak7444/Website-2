@@ -213,10 +213,14 @@ body{
    }
 }
 @media(max-width: 490px){
-   .header__title1{
+   .header__inner{
+      padding-left: 10%;
+   }
+   .header__title1{ 
+      padding-left: 10%;
       font-size: 20px;
    }
-   .header__inner{
+   .header__title2{ 
       padding-left: 10%;
    }
    .footer__list{
