@@ -223,8 +223,4 @@ body{
       padding-left: 42%;
    }
 }
-@media(max-width:390px){
-   .header__title1{
-      font-size: 20px;
-   }
-}
+
